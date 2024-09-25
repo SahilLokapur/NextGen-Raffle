@@ -1,2 +1,2 @@
 # NextGen-Raffle
-A Blockchain Project
+Blockchain Project
